@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @varunpuskur
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning ML Concepts 
-- 💞️ I’m looking to collaborate on CS Projects
-- 📫 How to reach me: puskurvarun@gmail.com
-- 😄 Pronouns: He/Him
+# Hi, I'm Varun! 👋
+I'm a first-year Computer Science student at Virginia Tech.
+
+### 🚀 Currently...
+- 💻 Learning: Java and Spring Boot
 
 <!---
 varunpuskur/varunpuskur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
