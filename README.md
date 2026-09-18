@@ -1,8 +1,5 @@
 # Hi, I'm Varun! 👋
-I'm a first-year Computer Science student at Virginia Tech.
-
-### 🚀 Currently...
-- 💻 Learning: Java and Spring Boot
+I'm a Computer Science student at Virginia Tech.
 
 <!---
 varunpuskur/varunpuskur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
